@@ -1,0 +1,194 @@
+{
+  "nav": {
+    "skip": "Skip to content",
+    "catalog": "Equipment",
+    "services": "Services",
+    "how": "How it works",
+    "faq": "FAQ",
+    "quote": "Request a quote",
+    "menu": "Open menu",
+    "close": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Civil and industrial works",
+    "title": "The right machine",
+    "highlight": "on site tomorrow",
+    "text": "Lifting, compaction, concrete, power and access. Serviced fleet, scheduled delivery and a quote answered the same day, straight on WhatsApp.",
+    "primary": "See the equipment",
+    "secondary": "Talk on WhatsApp",
+    "badge": "Answered within 2 business hours"
+  },
+  "stats": {
+    "items": {
+      "0": { "value": "18", "label": "years on the road" },
+      "1": { "value": "240", "label": "sites served" },
+      "2": { "value": "15", "label": "equipment lines" },
+      "3": { "value": "24h", "label": "to reach your site" }
+    }
+  },
+  "services": {
+    "eyebrow": "Where we work",
+    "title": "Two fronts, one standard",
+    "text": "From foundation to finishing, and from scheduled shutdown to extended shift.",
+    "items": {
+      "0": {
+        "title": "Civil works",
+        "text": "Residential, commercial and infrastructure. Earthworks, structure, masonry and finishing, with equipment sized per stage."
+      },
+      "1": {
+        "title": "Industry",
+        "text": "Scheduled shutdown, assembly, maintenance and retrofit. Service outside business hours, with silenced equipment where needed."
+      },
+      "2": {
+        "title": "Rental by period",
+        "text": "Daily, weekly or monthly, with simple renewal. You pay for the time you use, and the contract follows the stage of the work."
+      },
+      "3": {
+        "title": "Technical support",
+        "text": "Usage guidance, preventive maintenance during the rental and replacement if the machine stops mid-service."
+      }
+    }
+  },
+  "catalog": {
+    "eyebrow": "Our fleet",
+    "title": "Pick the machine and ask for a quote",
+    "text": "Tap the equipment to open WhatsApp with the message already written. No sign-up, no long form, no waiting.",
+    "all": "All",
+    "count": "{count} machines",
+    "cta": "Request a quote",
+    "featured": "Most requested",
+    "empty": "Nothing in this category yet.",
+    "reset": "See all"
+  },
+  "categories": {
+    "lifting": "Lifting",
+    "compaction": "Compaction",
+    "concrete": "Concrete",
+    "power": "Power and air",
+    "access": "Access and shoring",
+    "demolition": "Demolition"
+  },
+  "how": {
+    "eyebrow": "How it works",
+    "title": "Four steps, none of them bureaucratic",
+    "text": "From the first message to the machine running, with no sign-up and no mandatory sales visit.",
+    "items": {
+      "0": {
+        "title": "Pick the equipment",
+        "text": "Browse the fleet and tap what you need. The message comes out already filled with the model."
+      },
+      "1": {
+        "title": "Talk on WhatsApp",
+        "text": "Tell us the job, the deadline and the site address. We confirm availability right away."
+      },
+      "2": {
+        "title": "Get the proposal",
+        "text": "Closed price per period, with freight and terms spelled out. No fee showing up later."
+      },
+      "3": {
+        "title": "Delivery on site",
+        "text": "Serviced equipment, with usage guidance and a checklist signed on delivery and on return."
+      }
+    }
+  },
+  "why": {
+    "eyebrow": "Why KRLoc",
+    "title": "What the site actually feels",
+    "items": {
+      "0": {
+        "title": "Serviced fleet",
+        "text": "Preventive maintenance between rentals and same-day replacement in case of failure."
+      },
+      "1": {
+        "title": "Closed price",
+        "text": "Proposal with period price, freight and return in writing. No surprise on the invoice."
+      },
+      "2": {
+        "title": "Scheduled delivery",
+        "text": "Time agreed with whoever runs the site, including outside business hours."
+      },
+      "3": {
+        "title": "Paperwork in order",
+        "text": "Invoice, contract and delivery checklist, the way the site audit asks for it."
+      }
+    }
+  },
+  "quote": {
+    "eyebrow": "Quote",
+    "title": "Build your request and send it on WhatsApp",
+    "text": "Nothing here is sent to a server. The button opens WhatsApp with the message already written, and you review it before sending.",
+    "name": "Your name",
+    "namePlaceholder": "What should we call you",
+    "site": "Site or company",
+    "sitePlaceholder": "City, district or site name",
+    "period": "Period",
+    "items": "Equipment",
+    "itemsHint": "Pick as many as you need",
+    "notes": "Notes",
+    "notesPlaceholder": "Deadline, height, type of service, delivery time",
+    "submit": "Open WhatsApp with the request",
+    "preview": "Message preview",
+    "copy": "Copy",
+    "copied": "Copied",
+    "privacy": "Your data stays on your device. This page has no sign-up, stores no form and uses no tracking cookie.",
+    "periods": {
+      "daily": "Daily",
+      "weekly": "Weekly",
+      "monthly": "Monthly",
+      "undecided": "To be agreed"
+    },
+    "message": {
+      "intro": "Hello! I came from the KRLoc website and would like a quote.",
+      "name": "Name: {value}",
+      "site": "Site: {value}",
+      "period": "Period: {value}",
+      "items": "Equipment: {value}",
+      "notes": "Notes: {value}"
+    }
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "What people ask before closing",
+    "items": {
+      "0": {
+        "q": "Do I need an account to rent?",
+        "a": "Not to ask for a quote. Registration only happens when the contract is closed, with the documents of the company or the person responsible for the site."
+      },
+      "1": {
+        "q": "Do you deliver to the site?",
+        "a": "Yes. Freight is part of the proposal, based on distance and machine size, and the time is agreed with whoever receives it on site."
+      },
+      "2": {
+        "q": "What is the minimum rental period?",
+        "a": "The daily rate is the shortest period. For jobs longer than a week the daily price drops, and renewal runs on the same contract."
+      },
+      "3": {
+        "q": "What if the machine stops during the job?",
+        "a": "Replacement is on us, within the next business day, as long as the failure does not come from use outside the specification. That is written in the contract."
+      },
+      "4": {
+        "q": "Do you work outside business hours?",
+        "a": "Yes, for scheduled shutdowns and night shifts, booked in advance. It is common in industrial work."
+      }
+    }
+  },
+  "footer": {
+    "about": "Equipment rental for civil and industrial works. Serviced fleet, scheduled delivery and a clear contract.",
+    "contact": "Contact",
+    "hours": "Hours",
+    "navigate": "Navigate",
+    "weekdays": "Monday to Friday",
+    "saturday": "Saturday",
+    "address": "Address",
+    "rights": "All rights reserved.",
+    "mock": "Demo content: copy, images and contact details will be replaced by the real ones."
+  },
+  "fab": {
+    "label": "Talk on WhatsApp",
+    "short": "WhatsApp"
+  },
+  "whatsapp": {
+    "general": "Hello! I came from the KRLoc website and would like a quote.",
+    "item": "Hello! I came from the KRLoc website and want a quote for: {item}."
+  }
+}

@@ -1,0 +1,9 @@
+# Fim de linha LF em qualquer maquina. Sem isto, um clone com autocrlf=true
+# escreve CRLF e o lint recusa o arquivo inteiro na primeira linha.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ico binary

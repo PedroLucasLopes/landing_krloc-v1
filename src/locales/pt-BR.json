@@ -1,0 +1,194 @@
+{
+  "nav": {
+    "skip": "Ir direto para o conteudo",
+    "catalog": "Equipamentos",
+    "services": "Servicos",
+    "how": "Como funciona",
+    "faq": "Duvidas",
+    "quote": "Pedir orcamento",
+    "menu": "Abrir o menu",
+    "close": "Fechar o menu"
+  },
+  "hero": {
+    "eyebrow": "Obras civis e industriais",
+    "title": "O equipamento certo",
+    "highlight": "no canteiro amanha",
+    "text": "Elevacao, compactacao, concretagem, energia e acesso. Frota revisada, entrega programada e um orcamento respondido no mesmo dia, direto pelo WhatsApp.",
+    "primary": "Ver equipamentos",
+    "secondary": "Falar agora no WhatsApp",
+    "badge": "Resposta em ate 2 horas uteis"
+  },
+  "stats": {
+    "items": {
+      "0": { "value": "18", "label": "anos de estrada" },
+      "1": { "value": "240", "label": "obras atendidas" },
+      "2": { "value": "15", "label": "linhas de equipamento" },
+      "3": { "value": "24h", "label": "para entregar no canteiro" }
+    }
+  },
+  "services": {
+    "eyebrow": "Onde a gente atua",
+    "title": "Duas frentes, o mesmo padrao",
+    "text": "Da fundacao ao acabamento, e da parada programada ao turno estendido.",
+    "items": {
+      "0": {
+        "title": "Obra civil",
+        "text": "Residencial, comercial e infraestrutura. Terraplanagem, estrutura, alvenaria e acabamento, com equipamento dimensionado por etapa."
+      },
+      "1": {
+        "title": "Industria",
+        "text": "Parada programada, montagem, manutencao e reforma. Atendimento fora do horario comercial, com equipamento silenciado onde preciso."
+      },
+      "2": {
+        "title": "Locacao por periodo",
+        "text": "Diaria, semanal ou mensal, com renovacao simples. Voce paga pelo tempo que usa, e o contrato acompanha a etapa da obra."
+      },
+      "3": {
+        "title": "Apoio tecnico",
+        "text": "Orientacao de uso, manutencao preventiva durante a locacao e troca do equipamento se ele parar no meio do servico."
+      }
+    }
+  },
+  "catalog": {
+    "eyebrow": "Nossa frota",
+    "title": "Escolha o equipamento e peca o orcamento",
+    "text": "Toque no equipamento para abrir o WhatsApp com a mensagem pronta. Sem cadastro, sem formulario longo, sem espera.",
+    "all": "Todos",
+    "count": "{count} equipamentos",
+    "cta": "Pedir orcamento",
+    "featured": "Mais procurado",
+    "empty": "Nenhum equipamento nesta categoria por enquanto.",
+    "reset": "Ver todos"
+  },
+  "categories": {
+    "lifting": "Elevacao",
+    "compaction": "Compactacao",
+    "concrete": "Concretagem",
+    "power": "Energia e ar",
+    "access": "Acesso e escoramento",
+    "demolition": "Demolicao"
+  },
+  "how": {
+    "eyebrow": "Como funciona",
+    "title": "Quatro passos, nenhum burocratico",
+    "text": "Do primeiro contato ao equipamento em operacao, sem cadastro e sem visita comercial obrigatoria.",
+    "items": {
+      "0": {
+        "title": "Escolha o equipamento",
+        "text": "Navegue pela frota e toque no que precisa. A mensagem ja sai preenchida com o modelo."
+      },
+      "1": {
+        "title": "Converse no WhatsApp",
+        "text": "Conte o servico, o prazo e o endereco da obra. A gente confirma disponibilidade na hora."
+      },
+      "2": {
+        "title": "Receba a proposta",
+        "text": "Valor fechado por periodo, com frete e condicoes claras. Nada de taxa que aparece depois."
+      },
+      "3": {
+        "title": "Entrega no canteiro",
+        "text": "Equipamento revisado, com orientacao de uso e checklist assinado na entrega e na devolucao."
+      }
+    }
+  },
+  "why": {
+    "eyebrow": "Por que a KRLoc",
+    "title": "O que a obra sente na pratica",
+    "items": {
+      "0": {
+        "title": "Frota revisada",
+        "text": "Manutencao preventiva entre locacoes e substituicao no mesmo dia em caso de falha."
+      },
+      "1": {
+        "title": "Preco fechado",
+        "text": "Proposta com valor por periodo, frete e devolucao escritos. Sem surpresa na fatura."
+      },
+      "2": {
+        "title": "Entrega programada",
+        "text": "Horario combinado com o responsavel pela obra, inclusive fora do horario comercial."
+      },
+      "3": {
+        "title": "Documentacao em ordem",
+        "text": "Nota, contrato e checklist de entrega, do jeito que a auditoria da obra pede."
+      }
+    }
+  },
+  "quote": {
+    "eyebrow": "Orcamento",
+    "title": "Monte seu pedido e envie pelo WhatsApp",
+    "text": "Nada aqui e enviado para um servidor. O botao abre o WhatsApp com a mensagem ja escrita, e voce revisa antes de mandar.",
+    "name": "Seu nome",
+    "namePlaceholder": "Como podemos te chamar",
+    "site": "Obra ou empresa",
+    "sitePlaceholder": "Cidade, bairro ou nome da obra",
+    "period": "Periodo",
+    "items": "Equipamentos",
+    "itemsHint": "Escolha quantos precisar",
+    "notes": "Observacoes",
+    "notesPlaceholder": "Prazo, altura, tipo de servico, horario de entrega",
+    "submit": "Abrir o WhatsApp com o pedido",
+    "preview": "Previa da mensagem",
+    "copy": "Copiar",
+    "copied": "Copiado",
+    "privacy": "Seus dados ficam no seu aparelho. Esta pagina nao tem cadastro, nao grava formulario e nao usa cookie de rastreamento.",
+    "periods": {
+      "daily": "Diaria",
+      "weekly": "Semanal",
+      "monthly": "Mensal",
+      "undecided": "A combinar"
+    },
+    "message": {
+      "intro": "Ola! Vim pelo site da KRLoc e gostaria de um orcamento.",
+      "name": "Nome: {value}",
+      "site": "Obra: {value}",
+      "period": "Periodo: {value}",
+      "items": "Equipamentos: {value}",
+      "notes": "Observacoes: {value}"
+    }
+  },
+  "faq": {
+    "eyebrow": "Duvidas",
+    "title": "O que perguntam antes de fechar",
+    "items": {
+      "0": {
+        "q": "Preciso ter cadastro para alugar?",
+        "a": "Nao para pedir orcamento. O cadastro acontece so quando o contrato e fechado, com os documentos da empresa ou da pessoa responsavel pela obra."
+      },
+      "1": {
+        "q": "Voces entregam na obra?",
+        "a": "Sim. O frete entra na proposta, calculado pela distancia e pelo porte do equipamento, e o horario e combinado com quem recebe no canteiro."
+      },
+      "2": {
+        "q": "Qual o periodo minimo de locacao?",
+        "a": "A diaria e o menor periodo. Para servico de mais de uma semana, o valor por dia cai, e a renovacao e feita pelo mesmo contrato."
+      },
+      "3": {
+        "q": "E se o equipamento parar durante o servico?",
+        "a": "A troca e por nossa conta, no mesmo dia util, desde que a falha nao venha de uso fora da especificacao. Isso esta escrito no contrato."
+      },
+      "4": {
+        "q": "Voces atendem fora do horario comercial?",
+        "a": "Sim, para parada programada e turno noturno, com agendamento previo. E comum em servico industrial."
+      }
+    }
+  },
+  "footer": {
+    "about": "Locacao de equipamentos para obras civis e industriais. Frota revisada, entrega programada e contrato claro.",
+    "contact": "Contato",
+    "hours": "Horario",
+    "navigate": "Navegue",
+    "weekdays": "Segunda a sexta",
+    "saturday": "Sabado",
+    "address": "Endereco",
+    "rights": "Todos os direitos reservados.",
+    "mock": "Conteudo de demonstracao: textos, imagens e dados de contato serao substituidos pelos reais."
+  },
+  "fab": {
+    "label": "Falar no WhatsApp",
+    "short": "WhatsApp"
+  },
+  "whatsapp": {
+    "general": "Ola! Vim pelo site da KRLoc e gostaria de um orcamento.",
+    "item": "Ola! Vim pelo site da KRLoc e quero um orcamento para: {item}."
+  }
+}

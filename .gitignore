@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+storybook-static
+coverage
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.sw?
+
+*.tsbuildinfo
+
+# Qualquer arquivo de ambiente, menos o exemplo. O token dos pacotes vem do
+# ambiente do shell e nunca de arquivo; o .npmrc fica, porque so diz onde buscar.
+.env
+.env.*
+!.env.example

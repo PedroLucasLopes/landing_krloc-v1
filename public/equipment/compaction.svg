@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img" aria-label="compaction">
+  <defs>
+    <linearGradient id="p" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#ffffff" />
+      <stop offset="1" stop-color="#e4e9ec" />
+    </linearGradient>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0v40" fill="none" stroke="#ced6da" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="640" height="480" fill="url(#p)" />
+  <rect width="640" height="480" fill="url(#g)" opacity="0.7" />
+  <circle cx="512" cy="112" r="132" fill="#ff7a1a" opacity="0.12" />
+
+  <g fill="#ff7a1a" opacity="0.22"><rect x="150" y="330" width="290" height="46" rx="8" /><rect x="252" y="176" width="92" height="60" rx="8" /></g>
+  <g fill="none" stroke="#33454f" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 330l38-96h120l38 96" />
+    <path d="M344 206h96l34-70" />
+    <path d="M150 400h290" />
+  </g>
+
+  <rect x="0" y="466" width="640" height="14" fill="#ffc400" />
+  <text x="24" y="54" fill="#7a8992" font-family="Archivo, Roboto, sans-serif" font-size="16" letter-spacing="3">IMAGEM ILUSTRATIVA</text>
+</svg>

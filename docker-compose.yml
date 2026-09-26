@@ -1,0 +1,30 @@
+﻿name: site_krloc-v1
+
+# A pagina de boas-vindas do KRLoc, servida por nginx. Nao depende de nada: nao
+# fala com a API do KRLoc, nao fala com o SSO e nao tem banco. Sobe sozinha.
+#
+# O build instala @pedrolucaslopes/dotlog-ui do GitHub Packages: rode num
+# terminal com NODE_AUTH_TOKEN (token classico com read:packages). Ele entra como
+# secret do BuildKit, so durante o `npm ci`, e nao fica na imagem.
+
+services:
+  krloc-site:
+    build:
+      context: .
+      target: runtime
+      secrets:
+        - NODE_AUTH_TOKEN
+    restart: unless-stopped
+    ports:
+      - "${SITE_KRLOC_PORT:-5176}:8080"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://127.0.0.1:8080/healthz >/dev/null 2>&1 || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
+
+secrets:
+  # Token do GitHub com `read:packages`, lido do ambiente de quem roda o build.
+  # Nunca em arquivo versionado, nunca como ARG.
+  NODE_AUTH_TOKEN:
+    environment: NODE_AUTH_TOKEN

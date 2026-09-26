@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="KRLoc">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11171a" />
+      <stop offset="1" stop-color="#0c1012" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <g fill="none" stroke="#f2b100" stroke-width="7">
+    <path d="M92 84 128 104v40L92 164 56 144v-40Z" />
+    <path d="M80 108v32M80 124l20-16M80 124l20 16" stroke-width="8" stroke-linecap="square" />
+  </g>
+
+  <text x="152" y="140" fill="#eef2f3" font-family="Archivo, Roboto, sans-serif" font-size="46" font-weight="800" letter-spacing="2">KRLoc</text>
+
+  <text x="56" y="316" fill="#eef2f3" font-family="Archivo, Roboto, sans-serif" font-size="82" font-weight="800">Locacao de equipamentos</text>
+  <text x="56" y="404" fill="#f2b100" font-family="Archivo, Roboto, sans-serif" font-size="82" font-weight="800">para obras civis e industriais</text>
+
+  <text x="56" y="484" fill="#9aa8ad" font-family="Roboto, sans-serif" font-size="34">Elevacao · Compactacao · Concretagem · Energia · Acesso</text>
+
+  <rect x="0" y="600" width="1200" height="30" fill="#f2b100" />
+</svg>
