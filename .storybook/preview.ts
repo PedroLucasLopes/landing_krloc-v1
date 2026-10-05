@@ -1,4 +1,4 @@
-﻿import { createDotlogLocale, cssVariables, lightColors, THEME_LIGHT, vuetifyOptions } from '@pedrolucaslopes/dotlog-ui'
+import { createDotlogLocale, cssVariables, lightColors, THEME_LIGHT, vuetifyOptions } from '@pedrolucaslopes/dotlog-ui'
 import { type Preview, setup } from '@storybook/vue3-vite'
 import { useI18n } from 'vue-i18n'
 import { createVuetify } from 'vuetify'
