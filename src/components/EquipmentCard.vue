@@ -1,4 +1,4 @@
-﻿<script setup lang="ts">
+<script setup lang="ts">
   import type { CatalogItem } from '@/content/catalog'
   import { computed } from 'vue'
   import { useI18n } from 'vue-i18n'

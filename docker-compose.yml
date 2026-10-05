@@ -1,4 +1,4 @@
-﻿name: site_krloc-v1
+name: site_krloc-v1
 
 # A pagina de boas-vindas do KRLoc, servida por nginx. Nao depende de nada: nao
 # fala com a API do KRLoc, nao fala com o SSO e nao tem banco. Sobe sozinha.
